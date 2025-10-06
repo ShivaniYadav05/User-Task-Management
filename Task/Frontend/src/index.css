@@ -1,0 +1,7 @@
+body { font-family: Arial, sans-serif; padding: 20px; }
+.container { max-width: 1000px; margin: 0 auto }
+.user-form input, .user-form select { display:block; margin:8px 0; padding:8px; width:100%; max-width:400px }
+.user-form button { margin-right:8px }
+.user-table { width:100%; border-collapse: collapse; margin-top:20px }
+.user-table th, .user-table td { border:1px solid #ddd; padding:8px }
+.user-table th { background:#f7f7f7 }
